@@ -56,5 +56,8 @@
     <Content Include="libvorbis-0.dll" />
     <Content Include="libwinpthread-1.dll" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
