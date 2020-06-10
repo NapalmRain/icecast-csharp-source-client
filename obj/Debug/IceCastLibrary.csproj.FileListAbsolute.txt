@@ -1,0 +1,6 @@
+F:\Projects\RadioLibrary\IceCastLibrary\bin\Debug\IceCastLibrary.dll
+F:\Projects\RadioLibrary\IceCastLibrary\bin\Debug\IceCastLibrary.pdb
+F:\Projects\RadioLibrary\IceCastLibrary\obj\Debug\IceCastLibrary.csprojAssemblyReference.cache
+F:\Projects\RadioLibrary\IceCastLibrary\obj\Debug\IceCastLibrary.csproj.CoreCompileInputs.cache
+F:\Projects\RadioLibrary\IceCastLibrary\obj\Debug\IceCastLibrary.dll
+F:\Projects\RadioLibrary\IceCastLibrary\obj\Debug\IceCastLibrary.pdb
